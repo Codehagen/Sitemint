@@ -50,6 +50,11 @@ const data = {
       url: "/dashboard/projects",
       icon: IconFolder,
     },
+    {
+      title: "V0 Tester",
+      url: "/dashboard/v0-tester",
+      icon: IconFileAi,
+    },
     // {
     //   title: "Lifecycle",
     //   url: "#",
